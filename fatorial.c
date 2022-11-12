@@ -19,3 +19,5 @@ int main(void){
     }
     return 0;
 }
+
+/*Podemos calcular o fatorial de 12, mas não o de 13 com um int porque o fatorial de 13 excede os 4 bytes de memória ofertados pelo int.*/
