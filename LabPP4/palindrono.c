@@ -16,7 +16,7 @@ int main(void){
     char mensagem[n]= {'x','x','x','x','x'}, msgRevertida[n]= {'x','x','x','x','x'};
     printf("Escreva uma mensagem de uma linha.\nIMPORTANTE: Nao use acentos nem cedilha, por favor.\n");
     long long int len = getstr( mensagem, n);
-    printf("Palindromo: ");
+    printf("Palindrono: ");
 
     if(reverte(mensagem, msgRevertida, len)){
         printf("Verdadeiro\n");
