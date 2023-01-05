@@ -7,7 +7,6 @@ Lista de exercícios - Médio 1
 #include <stdio.h>
 #include <math.h>
 
-
 float S(int n);
 
 int main(void){
