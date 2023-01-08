@@ -15,6 +15,7 @@ int main(void){
     scanf("%d", &n);
     float aprox = S(n);
     printf("%f", S(n));
+
     return 0;
 }
 
