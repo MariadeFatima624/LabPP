@@ -12,7 +12,7 @@ int main(void){
     printf("Escolha dois números inteiros: ");
     int a,b;
     scanf("%d %d", &a, &b);
-    printf("%d", calc_mdc(a,b));
+    printf("%d\n", calc_mdc(a,b));
     return 0;
 }
 

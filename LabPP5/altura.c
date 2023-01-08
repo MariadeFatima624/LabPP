@@ -18,7 +18,7 @@ int main(void){
     s_dados altura;
     scanf("%d.%d", &altura.metros, &altura.centimetros);
     altura.centimetros = cm(altura.centimetros);
-    printf("Altura %dm%d", altura.metros, altura.centimetros);
+    printf("Altura %dm%d\n", altura.metros, altura.centimetros);
     return 0;
 }
 

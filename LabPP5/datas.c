@@ -21,7 +21,7 @@ int main(void){
     printf("%02d.%02d.%d ", data.dia, data.mes, data.ano);
     printf("%02d-%02d-%d ", data.mes, data.dia, data.ano);
     printf("%02d/%02d/%d ", data.dia, data.mes, data.ano%100);
-    printf("%02d%s%d ", data.dia, strmes[data.mes], data.ano);
+    printf("%02d%s%d\n", data.dia, strmes[data.mes], data.ano);
 
     
     return 0;
