@@ -1,7 +1,8 @@
 /*
 Arquivo: somatorio.c
 Data de criação: 1 de dezembro de 2022
-Autora: Maria de Fátima
+Autora: Maria de Fátima Penha dos Santos
+Número de matrícula: 12121EEL002
 Lista de exercícios - Básico 3
 */
 

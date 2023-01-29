@@ -1,7 +1,8 @@
 /*
 Arquivo: somaSeqHailst.c
 Data de criação: 24 de novembro de 2022
-Autora: Maria de Fátima
+Autora: Maria de Fátima Penha dos Santos
+Número de matrícula: 12121EEL002
 Lista de exercícios - Médio 2
 */
 
